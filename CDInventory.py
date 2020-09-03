@@ -6,11 +6,16 @@
 # DBiesinger, 2030-Jan-01, added pseudocode to complete assignment 08
 # SOrmerod, 2020-Sep-01, Renamed File
 # SOrmerod, 2020-Sep-02, Updated the code to function as a list of objects
-# SOrmerod, 2020-Sep-02, 
-# SOrmerod, 2020-Sep-02, 
-# SOrmerod, 2020-Sep-02, 
-# SOrmerod, 2020-Sep-02, 
-# SOrmerod, 2020-Sep-02, 
+# SOrmerod, 2020-Sep-02, Banged head against the wall
+# SOrmerod, 2020-Sep-02, updated display function
+# SOrmerod, 2020-Sep-02, reverted display function
+# SOrmerod, 2020-Sep-02, Further banged head against the wall
+# SOrmerod, 2020-Sep-02, Further broke the read and write functions
+# SOrmerod, 2020-Sep-02, Reverted the read and write functions
+# SOrmerod, 2020-Sep-02, Gave up all hope on the save and load function
+# SOrmerod, 2020-Sep-02, Added the all knowing value statement
+# SOrmerod, 2020-Sep-02, Attempted one final time to update the read and write functions
+# SOrmerod, 2020-Sep-02, Sucsessfully processed the program
 #------------------------------------------#
 
 # -- DATA -- #
